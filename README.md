@@ -1,1 +1,2 @@
-Hataların nedeni Githuba API keylerimi silip yüklediğim için.
+Zamanla yeni notlar yüklenecek
+
